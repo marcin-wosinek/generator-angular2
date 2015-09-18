@@ -13,5 +13,8 @@
     "gulp-shell": "0.4.3",
     "gulp-traceur": "0.17.1",
     "gulp-webserver": "0.9.1"
+  },
+  "scripts": {
+    "dev": "gulp dev"
   }
 }
